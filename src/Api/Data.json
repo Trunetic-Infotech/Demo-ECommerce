@@ -1,0 +1,169 @@
+[
+    {
+        
+      "id": 1,
+      "img_url": "/assets/tshirt1.jpg",
+      "item": "Tyson Black T-shirt",
+      "quantity" : 1,
+      "price": "600"
+    },
+    {
+        
+        "id": 2,
+        "img_url": "/assets/tshirt2.jpg",
+        "item": "Pearl White Shimmer",
+        "quantity" : 2,
+        "price": "600"
+      },
+      {
+        
+        "id": 3,
+        "img_url": "/assets/tshirt3.jpg",
+        "item": "Brown Jacket",
+        "quantity" : 3,
+        "price": "600"
+      },
+      {
+        
+        "id": 4,
+        "img_url": "/assets/tshirt4.jpg",
+        "item": "Puma Olive Green T-shirt",
+        "quantity" : 4,
+        "price": "600"
+      },
+      {
+        
+        "id": 5,
+        "img_url": "/assets/tshirt5.jpg",
+        "item": "Black Tshirt",
+        "quantity" : 5,
+        "price": "600"
+      },
+      {
+        
+        "id": 6,
+        "img_url": "/assets/tshirt6.jpg",
+        "item": "Brown Top ",
+        "quantity" : 6,
+        "price": "600"
+      },
+      {
+        
+        "id": 7,
+        "img_url": "/assets/tshirt7.jpg",
+        "item": "Butterfly Top and Bottom ",
+        "quantity" : 7,
+        "price": "600"
+      },
+      {
+        
+        "id": 8,
+        "img_url": "/assets/tshirt8.jpg",
+        "item": "Mesh Top",
+        "quantity" : 8,
+        "price": "600"
+      },
+      {
+        
+        "id": 9,
+        "img_url": "/assets/tshirt9.jpg",
+        "item": "Denim Shirt",
+        "quantity" : 9,
+        "price": "600"
+      },
+      {
+        
+        "id": 10,
+        "img_url": "/assets/tshirt10.jpg",
+        "item": "Women's Pink Shirt",
+        "quantity" : 10,
+        "price": "600"
+      },
+      {
+        
+        "id": 11,
+        "img_url": "/assets/tshirt11.jpg",
+        "item": "Women Top and Bottom",
+        "quantity" : 11,
+        "price": "600"
+      },
+      {
+        
+        "id": "12",
+        "img_url": "/assets/tshirt12.jpg",
+        "item": "Blue Chikankari Cord Set",
+        "quantity" : 12,
+        "price": "600"
+      },
+     
+      {
+        
+        "id": 13,
+        "img_url": "/assets/tshirt13.jpg",
+        "item": "Black Printed Women Top",
+        "quantity" : 13,
+        "price": "600"
+      },
+      {
+        
+        "id": 14,
+        "img_url": "/assets/tshirt14.jpg",
+        "item": "Women Beige Colour Casual Shirt",
+        "quantity" : 14,
+        "price": "600"
+      },
+      {
+        
+        "id": 15,
+        "img_url": "/assets/tshirt15.jpg",
+        "item": "Men Brown Colour Shirt",
+        "quantity" : 15,
+        "price": "600"
+      },
+      {
+        
+        "id": 16,
+        "img_url": "/assets/tshirt-16.jpg",
+        "item": "Men Casual Joggers",
+        "quantity" : 16,
+        "price": "600"
+      },
+      {
+        
+        "id": 17,
+        "img_url": "/assets/tshirt-17.jpg",
+        "item": "Women Fril Top",
+        "quantity" : 17,
+        "price": "600"
+      },
+      {
+        
+        "id": 18,
+        "img_url": "/assets/tshirt-18.jpg",
+        "item": "Women Red Flare Top",
+        "quantity" : 18,
+        "price": "600"
+      },
+      {
+        
+        "id": 19,
+        "img_url": "/assets/tshirt-19.jpg",
+        "item": "Women Jeans",
+        "quantity" : 19,
+        "price": "600"
+      },
+      {
+        
+        "id": 20,
+        "img_url": "/assets/tshirt-20.jpg",
+        "item": "Black Printed T-shirt  ",
+        "quantity" : 20 ,
+        "price": "600"
+      }
+
+
+
+
+
+    
+]
